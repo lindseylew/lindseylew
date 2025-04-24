@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Lindsey
 
-<!--
-**lindseylew/lindseylew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer passionate about building clean and meaningful tech.
+Currently exploring: Data Engineering / Full-Stack Dev / Machine Learning
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Projects
+
+### 🔧 ETL Data Pipeline (In Progress)
+Building a scalable pipeline to automate data ingestion, transformation, and storage.
+
+### 📚 Library Management System
+Built a console-based system to manage books and users using OOP principles in Java.
+While Python is my primary language, this project helped me strengthen my understanding of backend logic and class structures.
+
+### 🧪 Data Analysis Projects
+Exploring public datasets with Python, Pandas, and Matplotlib
+
+___
+
+## 🛠 Tech Stack
+Python | Pandas | Flask | Django | JavaScript | Java | HTML/CSS | Git | PostgreSQL
+
+___
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/lindsey-lewis-43629779 • Email: lewislindseym7@gmail.com
