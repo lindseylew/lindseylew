@@ -7,6 +7,19 @@ ___
 
 ## 🚀Projects
 
+## 🔍 Featured Project: Grid Monitoring & Anomaly Detection
+A machine learning-based system that simulates power grid telemetry (voltage, current, frequency, and load), stores it in PostgreSQL, detects anomalies using Isolation Forest, and visualizes results in Power BI.
+
+Key Features:
+- Simulated telemetry data generation
+- Anomaly detection via ML (Isolation Forest)
+- Dockerized PostgreSQL & Python services
+- Power BI dashboards for grid behavior
+
+🔗 [View the Repository](https://github.com/lindseylew/power-grid-analysis)
+
+---
+
 ### 🔧 ETL Data Pipeline (In Progress)
 Building a scalable pipeline to automate data ingestion, transformation, and storage.
 
